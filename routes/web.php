@@ -24,7 +24,7 @@ Route::namespace('Auth')->group(function () {
 Route::middleware([Authenticate::class])->group(function () {
     Route::prefix('api')->group(function () {
         // Stats routes...
-        Route::get('stats', 'StatsController');
+        Route::get('stats', [\Canvas\Http\Controllers\StatsController::class, 'index']);
 
         // Upload routes...
         Route::prefix('uploads')->group(function () {
