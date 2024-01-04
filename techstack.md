@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 twothreebird/canvas is built on the following main stack:
+
 - [PHP](http://www.php.net/) – Languages
 - [Laravel](http://laravel.com/) – Frameworks (Full Stack)
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
@@ -23,11 +24,13 @@ twothreebird/canvas is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 twothreebird/canvas is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg' alt='Laravel'/> [Laravel](http://laravel.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
@@ -49,14 +52,15 @@ twothreebird/canvas is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [twothreebird/canvas](https://github.com/twothreebird/canvas)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|11/09/23 <br/>Report generated|
+|44<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -259,9 +263,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -270,6 +274,7 @@ Full tech stack [here](/techstack.md)
 |[eslint-loader](https://www.npmjs.com/eslint-loader)|v4.0.2|01/20/21|Todd Austin |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.1|12/21/20|Todd Austin |MIT|N/A|
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v7.20.0|12/21/20|Todd Austin |MIT|N/A|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|v6.0.49|01/20/21|Todd Austin |MIT|N/A|
 |[md5](https://www.npmjs.com/md5)|v2.3.0|02/29/16|Todd Austin |BSD-3-Clause|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.4|10/13/20|Todd Austin |MIT|N/A|
 |[nprogress](https://www.npmjs.com/nprogress)|v0.2.0|08/15/19|Todd Austin |MIT|N/A|
@@ -290,4 +295,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
