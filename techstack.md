@@ -3,25 +3,25 @@
 ## Tech Stack
 twothreebird/canvas is built on the following main stack:
 
-- [PHP](http://www.php.net/) – Languages
-- [Laravel](http://laravel.com/) – Frameworks (Full Stack)
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [PHPUnit](https://phpunit.de/) – Testing Frameworks
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ESLint](http://eslint.org/) – Code Review
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [PHP](http://www.php.net/) – Languages
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [Chart.js](http://www.chartjs.org/) – Charting Libraries
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Laravel](http://laravel.com/) – Frameworks (Full Stack)
+- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [vuex](https://vuex.vuejs.org) – State Management Library
-- [Prettier](https://prettier.io/) – Code Review
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Babel](http://babeljs.io/) – JavaScript Compilers
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [PHPUnit](https://phpunit.de/) – Testing Frameworks
+- [Prettier](https://prettier.io/) – Code Review
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -31,25 +31,25 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 twothreebird/canvas is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg' alt='Laravel'/> [Laravel](http://laravel.com/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg' alt='PHPUnit'/> [PHPUnit](https://phpunit.de/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg' alt='Laravel'/> [Laravel](http://laravel.com/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg' alt='PHPUnit'/> [PHPUnit](https://phpunit.de/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [twothreebird/canvas](https://github.com/twothreebird/canvas)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|44<br/>Tools used|01/05/24 <br/>Report generated|
+|44<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
